@@ -1,0 +1,12 @@
+八月 22, 2017 2:48:26 下午 com.autumn.zen.jlog.julog.JULogger log
+警告: warning log.
+八月 22, 2017 2:48:26 下午 com.autumn.zen.jlog.julog.JULogger log
+信息: info log.
+八月 22, 2017 2:48:26 下午 com.autumn.zen.jlog.julog.JULogger log
+配置: config log.
+八月 22, 2017 2:48:26 下午 com.autumn.zen.jlog.julog.JULogger log
+详细: fine log.
+八月 22, 2017 2:48:26 下午 com.autumn.zen.jlog.julog.JULogger log
+较详细: finer log.
+八月 22, 2017 2:48:26 下午 com.autumn.zen.jlog.julog.JULogger log
+非常详细: finest log.
